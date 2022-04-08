@@ -1,0 +1,15 @@
+.env
+foxes.yaml
+es-foxes
+
+backup/**
+restore/**
+
+!backup/.gitkeep
+!restore/.gitkeep
+
+.DS_Store
+**/.DS_Store
+*/.DS_Store
+
+build.sh

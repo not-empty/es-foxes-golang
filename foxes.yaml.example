@@ -1,0 +1,6 @@
+clear:
+  ignore_extensions: 
+    - gitkeep
+    - gz
+  ingore_files:
+    - .gitkeep
