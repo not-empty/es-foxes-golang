@@ -1,6 +1,6 @@
 # ES-Foxes
 
-[![Latest Version](https://img.shields.io/packagist/v/kiwfy/es-foxes?style=flat-square&label=Latest%20Version)](https://github.com/kiwfy/es-foxes/releases)
+[![Latest Version](https://img.shields.io/github/v/release/kiwfy/es-foxes.svg?style=flat-square)](https://github.com/kiwfy/es-foxes/releases)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square&label=PRs%20Welcome)](http://makeapullrequest.com)
 
 
